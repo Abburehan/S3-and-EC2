@@ -31,9 +31,8 @@
 - Log in to AWS Management Console.
 - Explore key services such as EC2, S3, IAM, RDS, and VPC.
 - Review Free Tier usage to avoid exceeding limits.
-
-![image](https://github.com/user-attachments/assets/d82ac702-5641-47c2-a70d-9f42e9125c82)
-
+- 
+<img width="1920" height="1138" alt="445410720-d82ac702-5641-47c2-a70d-9f42e9125c82" src="https://github.com/user-attachments/assets/c5e2714c-4df5-47ec-b363-5e12a3dc986b" />
 
 ### 2. Create & Manage EC2 Instance (Windows)
 
@@ -48,8 +47,7 @@
 - Create and download a `.pem` key pair.
 - Click **Launch** and wait for the instance to initialize.
 
-![image](https://github.com/user-attachments/assets/9031762b-0166-4ec8-9234-dbe7e60f1ee1)
-
+<img width="1039" height="618" alt="image" src="https://github.com/user-attachments/assets/d6824aca-96e0-41f9-a4b1-4cabede8bb0a" />
 
 #### Connecting to EC2 from Windows:
 
@@ -72,9 +70,9 @@
 
 ### Outcome:
 
-![image](https://github.com/user-attachments/assets/1b4997e6-8d4e-4592-9e80-1f551018e981)
+<img width="1038" height="620" alt="image" src="https://github.com/user-attachments/assets/f418e163-ca74-4666-84f4-a7dda8979823" />
 
-![image](https://github.com/user-attachments/assets/b9000051-c8e4-46e1-91cd-b99a2ea794db)
+<img width="1040" height="596" alt="image" src="https://github.com/user-attachments/assets/833dc528-7d87-415b-b12c-6d636669a869" />
 
 ### Result:
 Successfully set up AWS environment on Windows, launched EC2 instance, and configured AWS CLI.
