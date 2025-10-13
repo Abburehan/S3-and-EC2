@@ -72,7 +72,7 @@
 
 <img width="1038" height="620" alt="image" src="https://github.com/user-attachments/assets/f418e163-ca74-4666-84f4-a7dda8979823" />
 
-<img width="1040" height="596" alt="image" src="https://github.com/user-attachments/assets/833dc528-7d87-415b-b12c-6d636669a869" />
+<img width="1039" height="617" alt="image" src="https://github.com/user-attachments/assets/80f6f57a-7395-4fcd-be69-7702807bd8c2" />
 
 ### Result:
 Successfully set up AWS environment on Windows, launched EC2 instance, and configured AWS CLI.
